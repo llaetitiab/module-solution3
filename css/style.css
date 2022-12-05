@@ -9,6 +9,8 @@
 div section {
     margin: 10px;
     padding: 10px;
+          line-height: 1.2;
+
 }
 #section-1{
     background-color: #d9a5b3;
