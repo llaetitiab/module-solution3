@@ -31,7 +31,10 @@ div section {
 }
 
 #header-nav .navbar-brand {
-    background-color: 808000;
     position: absolute;
     left: 10px;
+}
+
+#navbar-header {
+        background-color: 808000;
 }
